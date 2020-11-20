@@ -30,3 +30,7 @@ A copy of the Rev B version of this PCB can be ordered from OshPark using this [
 ### [SPI Extender](https://github.com/juchong/iSensor-Expansion-Boards/tree/main/SPI%20Extender)
 
 These boards provided an example for using LVDS transmitters and receivers to push SPI through a CAT6 Ethernet cable (twisted pair). Using these boards, we were able to reliably communicate with an ADI IMU through 25 feet of cable. 
+
+### [iSensor Arduino Shield](https://github.com/juchong/iSensor-Expansion-Boards/tree/main/iSensor%20Arduino%20Shield)
+
+This shield was developed as a reference design for easily interfacing an Arduino-compatible device with most iSensor evaluation boards. The shield includes a switching regulator that can be used to power the IMU instead of relying on the host system's 3.3V supply. 
