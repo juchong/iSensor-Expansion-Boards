@@ -27,3 +27,6 @@ This board provides a compact and convenient way of verifying that the EVAL-ADIS
 
 A copy of the Rev B version of this PCB can be ordered from OshPark using this [link](https://oshpark.com/shared_projects/FAYf9S82).
 
+### [SPI Extender](https://github.com/juchong/iSensor-Expansion-Boards/tree/main/SPI%20Extender)
+
+These boards provided an example for using LVDS transmitters and receivers to push SPI through a CAT6 Ethernet cable (twisted pair). Using these boards, we were able to reliably communicate with an ADI IMU through 25 feet of cable. 
